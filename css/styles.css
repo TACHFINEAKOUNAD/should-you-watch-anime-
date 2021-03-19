@@ -1,0 +1,77 @@
+p {
+  color: #3B6978;
+}
+
+body {
+  background-color: #F6F4E6;
+}
+
+h3 {
+  color: #16213E;
+}
+
+h2 {
+  color: #8D93AB;
+}
+
+h1 {
+  color: #8D93AB;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 19px;
+  height: 2px;
+  width: 10%
+}
+
+img {
+  height: 350px;
+}
+
+.kaku {
+  color: #2D4059;
+}
+
+.oliva {
+  color: #2D4059;
+}
+
+.baki {
+  color: #2D4059;
+}
+
+.hanma {
+  color: #2D4059;
+}
+
+.tablee:hover {
+  border-spacing: 30px 1rem;
+  background-color: #1B262C;
+}
+
+.jack {
+  color: #2D4059;
+}
+
+.haha {
+  color: #2D4059;
+}
+
+.katsumi {
+  color: #2D4059;
+}
+
+.tab:hover {
+  background-color: #1B262C;
+  border-spacing: 100px 1rem;
+}
+
+th {
+  color: #4B5D67;
+}
+
+.table {
+  color: #1D2D50;
+}
